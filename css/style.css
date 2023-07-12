@@ -1,0 +1,516 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+section {
+	background: url(../phon/aegis-hero.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+body {
+	height: 100%;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	display: ;
+}
+p{
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+.nnn {
+	width: 400px;
+	height: 400px;
+	margin-left: 300px;
+	border-style: solid;
+	display: block;
+}
+.nur {
+	display: inline-block;
+	font-size: 30px;
+    border-style: solid;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 600px;
+    color: white;
+}
+.darhan {
+	width: 400px;
+	height: 400px;
+	margin-left: 700px;
+	border-style: solid;
+	display: block;
+}
+.dar {
+	display: inline-block;
+	font-size: 30px;
+    border-style: solid;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 600px;
+    color: white;
+}
+.bakit {
+	width: 400px;
+	height: 400px;
+	margin-left: 700px;
+	border-style: solid;
+	display: block;
+}
+.shrek {
+	display: inline-block;
+	font-size: 30px;
+    border-style: solid;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 600px;
+    color: white;
+}
+.dan {
+	width: 400px;
+	height: 400px;
+	margin-left: 700px;
+	border-style: solid;
+	display: block;
+}
+.cho {
+	display: inline-block;
+	font-size: 30px;
+    border-style: solid;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 600px;
+    color: white;
+}
+.di {
+	width: 400px;
+	height: 400px;
+	margin-left: 700px;
+	border-style: solid;
+	display: block;
+}
+.ass {
+	display: inline-block;
+	font-size: 30px;
+    border-style: solid;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 600px;
+    color: white;
+}
+.ero {
+	width: 400px;
+	height: 400px;
+	margin-left: 700px;
+	border-style: solid;
+	display: block;
+}
+.bolt {
+	display: inline-block;
+	font-size: 30px;
+    border-style: solid;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 600px;
+    color: white;
+}
+@media (max-width: 2560px) {
+	h1{
+		margin-left: 90px;
+	}
+	.nnn{
+		margin-left: 700px;
+
+	}
+	.darhan {
+		margin-left: 700px;
+	}
+	.bakit {
+		margin-left: 700px;
+	}
+	.dan {
+		margin-left: 700px;
+	}
+	.di{
+		margin-left: 700px;
+	}
+	.ero{
+		margin-left: 700px;
+	}
+}
+@media (max-width: 1440px) {
+	h1{
+		margin-right: 90px;
+	}
+	.nnn{
+		margin-right: 500px;
+		margin-left: 500px;
+
+	}
+	.darhan {
+		margin-left: 500px;
+	}
+	.bakit {
+		margin-left: 500px;
+	}
+	.dan {
+		margin-left: 500px;
+	}
+	.di{
+		margin-left: 500px;
+	}
+	.ero{
+		margin-left: 500px;
+	}
+	.nur {
+		margin-right: 400px ;
+		margin-left: 400px;
+	}
+	.dar {
+		margin-right: 400px ;
+		margin-left: 400px;
+	}
+     .shrek {
+     	margin-right: 400px ;
+		margin-left: 400px;
+     }
+     .cho{
+     	margin-right: 400px ;
+		margin-left: 400px;
+     }
+     .ass{
+     	margin-right: 400px ;
+		margin-left: 400px;
+     }
+     .bolt{
+     	margin-right: 400px ;
+		margin-left: 400px;
+     }
+}
+@media (max-width: 1024px) {
+	
+	.nnn{
+		margin-right: 500px;
+		margin-left: 300px;
+
+	}
+	.darhan {
+		margin-left: 300px;
+	}
+	.bakit {
+		margin-left: 300px;
+	}
+	.dan {
+		margin-left: 300px;
+	}
+	.di{
+		margin-left: 300px;
+	}
+	.ero{
+		margin-left: 300px;
+	}
+	}
+	.nur {
+		margin-right: 200px ;
+		margin-left: 200px;
+	}
+	.dar {
+		margin-right: 200px ;
+		margin-left: 200px;
+	}
+     .shrek {
+     	margin-right: 200px ;
+		margin-left: 200px;
+     }
+     .cho{
+     	margin-right: 200px ;
+		margin-left: 200px;
+     }
+     .ass{
+     	margin-right: 200px ;
+		margin-left: 200px;
+     }
+     .bolt{
+     	margin-right: 200px ;
+		margin-left: 200px;
+     }
+
+
+}
+@media (max-width: 768px) {
+	
+	.nnn{
+		margin-right: 300px;
+		margin-left: 250px;
+		width: 300px;
+		height: 300px;
+
+	}
+	.darhan {
+		margin-left: 250px;
+		height: 300px;
+		width: 300px;
+	}
+	.bakit {
+		margin-left: 250px;
+		height: 300px;
+		width: 300px;
+	}
+	.dan{
+		margin-left: 250px;
+		height: 300px;
+		width: 300px;
+	}
+	.di{
+		margin-left: 250px;
+		height: 300px;
+		width: 300px;
+	}
+	.ero{
+		margin-left: 250px;
+		height: 300px;
+		width: 300px;
+	}
+	.nur {
+		margin-right: 90px ;
+		margin-left: 100px;
+	}
+	.dar {
+		margin-right: 90px ;
+		margin-left: 100px;
+	}
+     .shrek {
+     	margin-right: 90px ;
+		margin-left: 100px;
+     }
+     .cho{
+     	margin-right: 90px ;
+		margin-left: 100px;
+     }
+     .ass{
+margin-right: 90px ;
+		margin-left: 100px;
+     }
+     .bolt{
+     	margin-right: 90px ;
+		margin-left: 100px;
+     }
+}
+@media (max-width: 425px) {
+	h1{
+		font-size: 35px;
+	}
+	p {
+font-size: 20px;
+	}
+	.nnn{
+		margin-left: 160px;
+		width: 100px;
+		height: 100px;
+
+	}
+	.darhan {
+		margin-left: 160px;
+		height: 100px;
+		width: 100px;
+	}
+	.bakit {
+		margin-left: 160px;
+		height: 100px;
+		width: 100px;
+	}
+	.dan{
+	    margin-left: 160px;
+		height: 100px;
+		width: 100px;	
+	}
+	.di{
+		 margin-left: 160px;
+		height: 100px;
+		width: 100px;
+	}
+	.ero{
+	 margin-left: 160px;
+		height: 100px;
+		width: 100px;	
+	}
+	.nur {
+		margin-right: 90px ;
+		margin-left: 100px;
+		font-size: 15px;
+	}
+	.dar {
+		margin-right: 90px ;
+		margin-left: 100px;
+		font-size: 15px;
+	}
+     .shrek {
+     	margin-right: 90px ;
+		margin-left: 100px;
+		font-size: 15px;
+     }
+     .cho{
+     	margin-right: 90px ;
+		margin-left: 100px;
+		font-size: 15px;
+     }
+     .ass{
+     	margin-right: 90px ;
+		margin-left: 100px;
+		font-size: 15px;
+     }
+     .bolt{
+     	margin-right: 90px ;
+		margin-left: 100px;
+		font-size: 15px;
+     }
+}
+@media (max-width: 320px) {
+	h1{
+		font-size: 25px;
+		margin-left: 60px;
+		margin-right: 60px;
+	}
+	p {
+font-size: 15px;
+	}
+	.nnn{
+		margin-left: 120px;
+		width: 100px;
+		height: 100px;
+
+	}
+	.darhan {
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.bakit {
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.dan{
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.di{
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.ero{
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.nur {
+		margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+	}
+	.dar {
+		margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+	}
+     .shrek {
+     	margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+     }
+     .cho{
+     	margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+     }
+     .ass{
+     	margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+     }
+     .bolt{
+     	margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+     }
+ }
+     @media (max-width: 375px) {
+	h1 {
+		font-size: 20px;
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+	p {
+font-size: 15px;
+	}
+	.nnn{
+		margin-left: 120px;
+		width: 100px;
+		height: 100px;
+
+	}
+	.darhan {
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.bakit {
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.dan{
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.di{
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.ero{
+		margin-left: 120px;
+		height: 100px;
+		width: 100px;
+	}
+	.nur {
+		margin-right: 70px ;
+		margin-left: 90px;
+		font-size: 10px;
+	}
+	.dar {
+		margin-right: 70px ;
+		margin-left: 90px;
+		font-size: 10px;
+	}
+     .shrek {
+     	margin-right: 70px ;
+		margin-left: 90px;
+		font-size: 10px;
+     }
+     .cho{
+     	margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+     }
+     .ass{
+     	margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+     }
+     .bolt{
+     	margin-right: 80px ;
+		margin-left: 90px;
+		font-size: 10px;
+     }
+ }
